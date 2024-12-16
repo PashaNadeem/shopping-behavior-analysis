@@ -1,9 +1,3 @@
-# shopping-behavior-analysis
-
-Here's a professional and technical README for your project based on the provided code. You can use this as the `README.md` file for your GitHub repository:
-
----
-
 # Customer Behavior Analysis and Machine Learning Modeling
 
 ## Project Overview
